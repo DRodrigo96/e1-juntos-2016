@@ -1,0 +1,6 @@
+/resources/*
+!/resources/.gitkeep
+/data/*
+!/data/data.zip
+/temp/*
+!/temp/.gitkeep
